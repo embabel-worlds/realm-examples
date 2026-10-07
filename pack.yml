@@ -3,6 +3,7 @@ description: "Example APIs — Petstore (OpenAPI), xkcd (OpenAPI), Rick and Mort
 version: 0.1.0
 author: Embabel
 url: https://github.com/embabel/assistant
+category: developer
 tags:
   - examples
   - apis
